@@ -11,6 +11,8 @@ NOAH tu dois
 Développeur Créa.
 Flavien 
 - [ ] Créer un CSS définissant les classes dont les noms sont donnés par le/la cheffe d’équipe.
+      Créer un style.css/header/Section-Title/Carte - Photo 1 - Photo 2- Photo 3/Footer
 - [ ]  Trouver des photos d’oiseaux pour illustrer.
+
 
 
