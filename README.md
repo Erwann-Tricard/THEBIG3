@@ -1,5 +1,4 @@
 # THEBIG3
-
 Le but du projet est de faire un site internet pour un concours de photos ornithologiques dont le sujet est l’espace naturel de la motte.
 
 Développeur Principale
@@ -12,6 +11,9 @@ Développeur Créa.
 Flavien 
 - [ ]      Créer un style.css/header/Section-Title/Carte - Photo 1 - Photo 2- Photo 3/Footer
 - [ ]  Trouver des photos d’oiseaux pour illustrer.
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 1baa72a054098cdca0dae1b2d9dd96dbd4464adc
